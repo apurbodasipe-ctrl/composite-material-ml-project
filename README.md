@@ -39,6 +39,53 @@ Results:
 * Hybrid dataset improved accuracy
 * Optimization identified best material combinations
 
+* ## 📊 Results Visualization
+
+### 🔹 Correlation Heatmap
+
+![Correlation](figures/fig_6_correlation_heatmap.png)
+
+---
+
+### 🔹 Model Performance
+
+#### MAE Comparison
+
+![MAE](figures/fig_7_model_comparison_mae.png)
+
+#### RMSE Comparison
+
+![RMSE](figures/fig_8_model_comparison_rmse.png)
+
+---
+
+### 🔹 Actual vs Predicted
+
+#### Tensile Strength
+
+![Tensile](figures/fig_9_actual_vs_pred_Tensile_Strength_MPa.png)
+
+#### Flexural Strength
+
+![Flexural](figures/fig_9_actual_vs_pred_Flexural_Strength_MPa.png)
+
+#### Impact Strength
+
+![Impact](figures/fig_9_actual_vs_pred_Impact_Strength_kJm2.png)
+
+---
+
+### 🔹 Feature Importance
+
+![Feature Importance](figures/fig_11_feature_importance.png)
+
+---
+
+### 🔹 Optimization Results
+
+![Optimization](figures/fig_12_optimization_score_distribution.png)
+
+
 
 Project Structure:
 data/
